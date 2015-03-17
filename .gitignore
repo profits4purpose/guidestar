@@ -1,0 +1,9 @@
+/vendor
+composer.lock
+phpunit-integration.xml
+
+# IDE files
+.idea
+.buildpath
+.project
+.settings

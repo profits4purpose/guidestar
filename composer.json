@@ -1,0 +1,19 @@
+{
+    "name": "profits4purpose/guidestar",
+    "description": "Client utility for querying the GuideStar API",
+    "license": "MIT",
+    "keywords": ["guidestar"],
+    "authors": [
+    ],
+    "require": {
+		"guzzlehttp/guzzle": "~5.2"
+	},
+    "require-dev": {
+        "phpunit/phpunit": "4.0.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Profits4Purpose\\GuideStar\\": "src"
+        }
+    }
+}
